@@ -1,0 +1,16 @@
+.painting {
+	border: 6px solid orange;
+	display: inline-block;
+	vertical-align: top;
+	/* float: leftORright; */
+	height: 100px;
+	width: 100px;
+	padding: 100px;
+	margin: 1em;
+}
+#mine {height: 95px;
+	width: 95px;
+}
+.banner { position: relative; overflow: auto; }
+    .banner li { list-style: none; }
+        .banner ul li { float: left; }
